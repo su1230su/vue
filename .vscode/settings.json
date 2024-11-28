@@ -1,0 +1,5 @@
+{
+    "npm.enableRunFromFolder": true,
+    "npm.runSilent": true,
+    "npm.packageManager": "npm"
+}
